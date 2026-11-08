@@ -166,6 +166,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "PICAXE® 08M2 IC",
       "image": {
         "path": "images/part_3308M2.webp",
         "kind": "Product image",
@@ -343,6 +344,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wall Transformer for AC Adapter",
       "image": {
         "path": "images/part_440409.webp",
         "kind": "Manual illustration",
@@ -521,6 +523,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Replacement Fuse for 6SCF1",
       "image": {
         "path": "images/part-533004-detail.webp",
         "kind": "Installed fuse detail",
@@ -715,6 +718,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "“AA” Alkaline Battery",
       "image": {
         "path": "images/part_590002.webp",
         "kind": "AA battery reference",
@@ -894,6 +898,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Case for SCM-400",
       "image": {
         "path": "images/part_623047.webp",
         "kind": "Assembly detail",
@@ -1151,6 +1156,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Stand",
       "image": {
         "path": "images/part-626100.webp",
         "kind": "Manual illustration",
@@ -1403,6 +1409,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber Grommet .125”ID-0.3”OD",
       "image": {
         "path": "images/part-662510.webp",
         "kind": "Manual illustration",
@@ -1581,6 +1588,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x10",
       "image": {
         "path": "images/part-6BR1X10G.webp",
         "kind": "Manual illustration",
@@ -1746,6 +1754,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x12",
       "image": {
         "path": "images/part-6BR1X12G.webp",
         "kind": "Manual illustration",
@@ -1911,6 +1920,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x1, 3-Sided",
       "image": {
         "path": "images/part-6BR1X1S3.webp",
         "kind": "Manual illustration",
@@ -2076,6 +2086,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x2",
       "image": {
         "path": "images/part-6BR1X2G.webp",
         "kind": "Manual illustration",
@@ -2241,6 +2252,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x2",
       "image": {
         "path": "images/part-6BR1X2W.webp",
         "kind": "Manual illustration",
@@ -2406,6 +2418,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x3",
       "image": {
         "path": "images/part-6BR1X3G.webp",
         "kind": "Manual illustration",
@@ -2571,6 +2584,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x3",
       "image": {
         "path": "images/part-6BR1X3W.webp",
         "kind": "Manual illustration",
@@ -2736,6 +2750,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x4",
       "image": {
         "path": "images/part-6BR1X4G.webp",
         "kind": "Manual illustration",
@@ -2901,6 +2916,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x4",
       "image": {
         "path": "images/part-6BR1X4W.webp",
         "kind": "Manual illustration",
@@ -3066,6 +3082,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x6",
       "image": {
         "path": "images/part-6BR1X6G.webp",
         "kind": "Manual illustration",
@@ -3231,6 +3248,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 1x6",
       "image": {
         "path": "images/part-6BR1X6W.webp",
         "kind": "Manual illustration",
@@ -3396,6 +3414,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 2x2 Bevel",
       "image": {
         "path": "images/part-6BR2X2BBK.webp",
         "kind": "Manual illustration",
@@ -3561,6 +3580,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 2x2",
       "image": {
         "path": "images/part-6BR2X2G.webp",
         "kind": "Manual illustration",
@@ -3726,6 +3746,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 2x4",
       "image": {
         "path": "images/part-6BR2X4G.webp",
         "kind": "Manual illustration",
@@ -3891,6 +3912,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 2x4",
       "image": {
         "path": "images/part-6BR2X4W.webp",
         "kind": "Manual illustration",
@@ -4056,6 +4078,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick 2x6",
       "image": {
         "path": "images/part-6BR2X6G.webp",
         "kind": "Manual illustration",
@@ -4258,6 +4281,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Bric2snap Adapter, 1x1",
       "image": {
         "path": "images/part-6BRA1X1.webp",
         "kind": "Manual illustration",
@@ -4443,6 +4467,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Bric2snap Adapter, 1x2",
       "image": {
         "path": "images/part-6BRA1X2.webp",
         "kind": "Manual illustration",
@@ -4622,6 +4647,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Bric2snap Adapter, 2x2",
       "image": {
         "path": "images/part-6BRA2X2.webp",
         "kind": "Manual illustration",
@@ -4794,6 +4820,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Baseplate 10” x 5”",
       "image": {
         "path": "images/part-6BRBP1.webp",
         "kind": "Manual illustration",
@@ -4966,6 +4993,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wheel",
       "image": {
         "path": "images/part-6BRHUB1.webp",
         "kind": "Manual illustration",
@@ -5154,6 +5182,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "LED Brick Blue",
       "image": {
         "path": "images/part-6BRLED2X4BL.webp",
         "kind": "Manual illustration",
@@ -5342,6 +5371,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "LED Brick Red",
       "image": {
         "path": "images/part-6BRLED2X4RD.webp",
         "kind": "Manual illustration",
@@ -5530,6 +5560,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "LED Brick Yellow",
       "image": {
         "path": "images/part-6BRLED2X4YW.webp",
         "kind": "Manual illustration",
@@ -5695,6 +5726,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Plate 2x12",
       "image": {
         "path": "images/part-6BRP2X12DG.webp",
         "kind": "Manual illustration",
@@ -5860,6 +5892,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Plate 2x2",
       "image": {
         "path": "images/part-6BRP2X2G.webp",
         "kind": "Manual illustration",
@@ -6025,6 +6058,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Plate 8x16",
       "image": {
         "path": "images/part-6BRP8X16BK.webp",
         "kind": "Manual illustration",
@@ -6197,6 +6231,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Tire",
       "image": {
         "path": "images/part-6BRTIRE1.webp",
         "kind": "Manual illustration",
@@ -6369,6 +6404,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Brick Remover Tool",
       "image": {
         "path": "images/part-6BRTOOL.webp",
         "kind": "Manual illustration",
@@ -6541,6 +6577,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wheel-mount 2x2",
       "image": {
         "path": "images/part-6BRWM2X2BK.webp",
         "kind": "Manual illustration",
@@ -6767,6 +6804,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Stonewashed Black Cap",
       "image": {
         "path": "images/part_6CAPS1.webp",
         "kind": "Manual illustration",
@@ -7877,6 +7915,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1-Snap Wire",
       "image": {
         "path": "images/part-6SC01.webp",
         "kind": "Manual illustration",
@@ -9443,6 +9482,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "2-Snap Wire",
       "image": {
         "path": "images/part-6SC02.webp",
         "kind": "Manual illustration",
@@ -11096,6 +11136,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "3-Snap Wire",
       "image": {
         "path": "images/part-6SC03.webp",
         "kind": "Manual illustration",
@@ -12405,6 +12446,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "4-Snap Wire",
       "image": {
         "path": "images/part-6SC04.webp",
         "kind": "Manual illustration",
@@ -13658,6 +13700,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "5-Snap Wire",
       "image": {
         "path": "images/part-6SC05.webp",
         "kind": "Manual illustration",
@@ -14668,6 +14711,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "6-Snap Wire",
       "image": {
         "path": "images/part-6SC06.webp",
         "kind": "Manual illustration",
@@ -15190,6 +15234,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Conductor with 7-snaps",
       "image": {
         "path": "images/part-6SC07.webp",
         "kind": "Manual illustration",
@@ -15470,6 +15515,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "3D Snap",
       "image": {
         "path": "images/part-6SC3DSNAP.webp",
         "kind": "Manual illustration",
@@ -15693,6 +15739,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Two-spring Socket ?1",
       "image": {
         "path": "images/part-6SC_1.webp",
         "kind": "Manual illustration",
@@ -15910,6 +15957,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Three-spring Socket ?Q",
       "image": {
         "path": "images/part-6SC_Q.webp",
         "kind": "Manual illustration",
@@ -16111,6 +16159,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Eight-pin IC Socket ?U8",
       "image": {
         "path": "images/part_6SCPYU8.webp",
         "kind": "Alternate-number image",
@@ -16369,6 +16418,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Antenna Coil",
       "image": {
         "path": "images/part-6SCA1.webp",
         "kind": "Manual illustration",
@@ -16596,6 +16646,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Air Fountain",
       "image": {
         "path": "images/part-6SCAF.webp",
         "kind": "Manual illustration",
@@ -16798,6 +16849,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Ball for Air Fountain",
       "image": {
         "path": "images/part-6SCAFB.webp",
         "kind": "Manual illustration",
@@ -17000,6 +17052,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Spout for Air Fountain",
       "image": {
         "path": "images/part-6SCAFS.webp",
         "kind": "Manual illustration",
@@ -17604,6 +17657,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Battery Holder (2 AA)",
       "image": {
         "path": "images/part-6SCB1.webp",
         "kind": "Manual illustration",
@@ -17866,6 +17920,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SNAP 2 IT battery holder",
       "image": {
         "path": "images/part_6SCB10.webp",
         "kind": "Manual illustration",
@@ -18024,6 +18079,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Battery Holder",
       "image": {
         "path": "images/part-6SCB11.webp",
         "kind": "Manual illustration",
@@ -18191,6 +18247,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "B1B Battery Holder",
       "image": {
         "path": "images/part_6SCB1B.webp",
         "kind": "Product image",
@@ -18477,6 +18534,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Solar Cell 4.5V",
       "image": {
         "path": "images/part-6SCB2.webp",
         "kind": "Manual illustration",
@@ -19245,6 +19303,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Battery Holder (3 AA)",
       "image": {
         "path": "images/part-6SCB3.webp",
         "kind": "Manual illustration",
@@ -19703,6 +19762,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Battery Holder SCB-20",
       "image": {
         "path": "images/part-6SCB3B.webp",
         "kind": "Manual illustration",
@@ -19992,6 +20052,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rechargeable Battery, 3.6V",
       "image": {
         "path": "images/part-6SCB4.webp",
         "kind": "Manual illustration",
@@ -20163,6 +20224,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "9V Battery Holder & Switch (SCP-03)",
       "image": {
         "path": "images/part_6SCB5.webp",
         "kind": "Manual illustration",
@@ -20365,6 +20427,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Module for AC Adapter",
       "image": {
         "path": "images/part_6SCB6.webp",
         "kind": "Manual illustration",
@@ -20642,6 +20705,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Solar Cell, approximately 7V",
       "image": {
         "path": "images/part-6SCB7.webp",
         "kind": "Manual illustration",
@@ -20863,6 +20927,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "9V Battery Holder & Switch",
       "image": {
         "path": "images/part-6SCB9.webp",
         "kind": "Manual illustration",
@@ -21065,6 +21130,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber band",
       "image": {
         "path": "images/part-6SCBAND1.webp",
         "kind": "Manual illustration",
@@ -21267,6 +21333,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "“+” Shaped Bar",
       "image": {
         "path": "images/part-6SCBAR1.webp",
         "kind": "Manual illustration",
@@ -21426,6 +21493,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Basket Pattern",
       "image": {
         "path": "images/part_6SCBASK.webp",
         "kind": "Manual illustration",
@@ -21646,6 +21714,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Battery Eliminator for FM2",
       "image": {
         "path": "images/part-6SCBE.webp",
         "kind": "Manual illustration",
@@ -22353,6 +22422,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base Grid (11 x 7.7 in)",
       "image": {
         "path": "images/part-6SCBG.webp",
         "kind": "Manual illustration",
@@ -22656,6 +22726,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 Base grid, 9x9",
       "image": {
         "path": "images/part_6SCBG99.webp",
         "kind": "Manual illustration",
@@ -22860,6 +22931,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Black Tint",
       "image": {
         "path": "images/part-6SCBGBK.webp",
         "kind": "Manual illustration",
@@ -23031,6 +23103,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Green Color",
       "image": {
         "path": "images/part-6SCBGGR.webp",
         "kind": "Manual illustration",
@@ -23451,6 +23524,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mini Base Grid",
       "image": {
         "path": "images/part-6SCBGM.webp",
         "kind": "Manual illustration",
@@ -23713,6 +23787,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base Grid Mini 2-Sided",
       "image": {
         "path": "images/part-6SCBGM2.webp",
         "kind": "Manual illustration",
@@ -23872,6 +23947,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base Grid",
       "image": {
         "path": "images/part_6SCBGMBK.webp",
         "kind": "Assembly detail",
@@ -24054,6 +24130,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Blue Tint",
       "image": {
         "path": "images/part-6SCBGMBL.webp",
         "kind": "Manual illustration",
@@ -24326,6 +24403,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base grid",
       "image": {
         "path": "images/part_6SCBGMF.webp",
         "kind": "Assembly detail",
@@ -24515,6 +24593,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base grid, 5x4",
       "image": {
         "path": "images/part_6SCBGMF5.webp",
         "kind": "Manual illustration",
@@ -24719,6 +24798,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base Grid",
       "image": {
         "path": "images/part-6SCBGMGR.webp",
         "kind": "Manual illustration",
@@ -24913,6 +24993,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Purple Tint",
       "image": {
         "path": "images/part-6SCBGMPL.webp",
         "kind": "Manual illustration",
@@ -25101,6 +25182,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Red Tint",
       "image": {
         "path": "images/part-6SCBGMRD.webp",
         "kind": "Manual illustration",
@@ -25289,6 +25371,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Yellow Tint",
       "image": {
         "path": "images/part-6SCBGMYL.webp",
         "kind": "Manual illustration",
@@ -25534,6 +25617,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Base grid support",
       "image": {
         "path": "images/part-6SCBGSUP.webp",
         "kind": "Manual illustration",
@@ -25722,6 +25806,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Purple Tint",
       "image": {
         "path": "images/part-6SCBGSUPPR.webp",
         "kind": "Manual illustration",
@@ -25887,6 +25972,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Bubbles LED attachment",
       "image": {
         "path": "images/part_6SCBUBBLES.webp",
         "kind": "Manual illustration",
@@ -26178,6 +26264,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "0.02µF Capacitor",
       "image": {
         "path": "images/part-6SCC1.webp",
         "kind": "Manual illustration",
@@ -26583,6 +26670,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "0.1µF Capacitor",
       "image": {
         "path": "images/part-6SCC2.webp",
         "kind": "Manual illustration",
@@ -26960,6 +27048,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "10µF Capacitor",
       "image": {
         "path": "images/part-6SCC3.webp",
         "kind": "Manual illustration",
@@ -27411,6 +27500,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "100µF Capacitor",
       "image": {
         "path": "images/part-6SCC4.webp",
         "kind": "Manual illustration",
@@ -27698,6 +27788,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "(non-polarized)",
       "image": {
         "path": "images/part-6SCC4N.webp",
         "kind": "Manual illustration",
@@ -28318,6 +28409,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "470µF Capacitor",
       "image": {
         "path": "images/part-6SCC5.webp",
         "kind": "Manual illustration",
@@ -28707,6 +28799,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1µF Capacitor",
       "image": {
         "path": "images/part-6SCC7.webp",
         "kind": "Manual illustration",
@@ -28937,6 +29030,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "4700µF Capacitor",
       "image": {
         "path": "images/part_6SCC8.webp",
         "kind": "Product image",
@@ -29153,6 +29247,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Illusion Cards",
       "image": {
         "path": "images/part-6SCCARD1.webp",
         "kind": "Manual illustration",
@@ -29325,6 +29420,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 Deck of cards (46)",
       "image": {
         "path": "images/part_6SCCARD2.webp",
         "kind": "Manual illustration",
@@ -29490,6 +29586,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 Game placemat",
       "image": {
         "path": "images/part_6SCCARD3.webp",
         "kind": "Manual illustration",
@@ -29806,6 +29903,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Compass",
       "image": {
         "path": "images/part-6SCCOM.webp",
         "kind": "Manual illustration",
@@ -30027,6 +30125,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Crawler Body",
       "image": {
         "path": "images/part-6SCCRAWB.webp",
         "kind": "Manual illustration",
@@ -30202,6 +30301,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Crawler Body",
       "image": {
         "path": "images/part-6SCCRAWB.webp",
         "kind": "Legacy reference image",
@@ -30406,6 +30506,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Crawler Parts",
       "image": {
         "path": "images/part-6SCCRAWP.webp",
         "kind": "Manual illustration",
@@ -30656,6 +30757,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Variable Capacitor",
       "image": {
         "path": "images/part-6SCCV.webp",
         "kind": "Manual illustration",
@@ -31254,6 +31356,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Red LED",
       "image": {
         "path": "images/part-6SCD1.webp",
         "kind": "Manual illustration",
@@ -31811,6 +31914,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Red/Yellow bicolor LED",
       "image": {
         "path": "images/part-6SCD10.webp",
         "kind": "Manual illustration",
@@ -32060,6 +32164,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 LED, yellow player",
       "image": {
         "path": "images/part_6SCD10A.webp",
         "kind": "Manual illustration",
@@ -32248,6 +32353,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 LED, red player",
       "image": {
         "path": "images/part_6SCD10B.webp",
         "kind": "Manual illustration",
@@ -32436,6 +32542,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 LED, green player",
       "image": {
         "path": "images/part_6SCD10C.webp",
         "kind": "Manual illustration",
@@ -32624,6 +32731,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 LED, black player",
       "image": {
         "path": "images/part_6SCD10D.webp",
         "kind": "Manual illustration",
@@ -32864,6 +32972,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Blink Red LED",
       "image": {
         "path": "images/part-6SCD11.webp",
         "kind": "Manual illustration",
@@ -33173,6 +33282,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Color2 LED",
       "image": {
         "path": "images/part-6SCD12.webp",
         "kind": "Manual illustration",
@@ -33642,6 +33752,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Green LED",
       "image": {
         "path": "images/part-6SCD2.webp",
         "kind": "Manual illustration",
@@ -34058,6 +34169,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Diode 1N4001",
       "image": {
         "path": "images/part-6SCD3.webp",
         "kind": "Manual illustration",
@@ -34353,6 +34465,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "White LED",
       "image": {
         "path": "images/part-6SCD4.webp",
         "kind": "Manual illustration",
@@ -34582,6 +34695,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Yellow LED",
       "image": {
         "path": "images/part-6SCD5.webp",
         "kind": "Manual illustration",
@@ -34993,6 +35107,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "White LED",
       "image": {
         "path": "images/part-6SCD6.webp",
         "kind": "Manual illustration",
@@ -35304,6 +35419,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "7-Segment LED Display",
       "image": {
         "path": "images/part-6SCD7.webp",
         "kind": "Manual illustration",
@@ -35809,6 +35925,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Color LED",
       "image": {
         "path": "images/part-6SCD8.webp",
         "kind": "Manual illustration",
@@ -36184,6 +36301,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Blue LED",
       "image": {
         "path": "images/part-6SCD9.webp",
         "kind": "Manual illustration",
@@ -36422,6 +36540,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Infrared (IR) LED",
       "image": {
         "path": "images/part-6SCDD14.webp",
         "kind": "Manual illustration",
@@ -36614,6 +36733,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Foam Disc",
       "image": {
         "path": "images/part-6SCDISC.webp",
         "kind": "Manual illustration",
@@ -36788,6 +36908,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1 Disc Launcher",
       "image": {
         "path": "images/part-6SCDL.webp",
         "kind": "Manual illustration",
@@ -37012,6 +37133,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disco Motor",
       "image": {
         "path": "images/part-6SCDM.webp",
         "kind": "Manual illustration",
@@ -37221,6 +37343,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disco Cover, Hexagon",
       "image": {
         "path": "images/part-6SCDMCH.webp",
         "kind": "Manual illustration",
@@ -37430,6 +37553,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disco Cover, Triangle",
       "image": {
         "path": "images/part-6SCDMCT.webp",
         "kind": "Manual illustration",
@@ -37589,6 +37713,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Starlit Sky",
       "image": {
         "path": "images/part_6SCDMD1.webp",
         "kind": "Manual illustration",
@@ -37747,6 +37872,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Deep Sea Life",
       "image": {
         "path": "images/part_6SCDMD2.webp",
         "kind": "Manual illustration",
@@ -37905,6 +38031,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Dino Zone",
       "image": {
         "path": "images/part_6SCDMD3.webp",
         "kind": "Manual illustration",
@@ -38063,6 +38190,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fish School",
       "image": {
         "path": "images/part_6SCDMD4.webp",
         "kind": "Manual illustration",
@@ -38221,6 +38349,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Spaceship",
       "image": {
         "path": "images/part_6SCDMD5.webp",
         "kind": "Manual illustration",
@@ -38429,6 +38558,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disco Cover Support Bar",
       "image": {
         "path": "images/part-6SCDMSB.webp",
         "kind": "Manual illustration",
@@ -38595,6 +38725,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Support bar, 40mm",
       "image": {
         "path": "images/part_6SCDMSB2.webp",
         "kind": "Manual illustration",
@@ -38881,6 +39012,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Copper Electrode",
       "image": {
         "path": "images/part-6SCEC.webp",
         "kind": "Manual illustration",
@@ -39183,6 +39315,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Copper Electrode with Snap",
       "image": {
         "path": "images/part-6SCECS.webp",
         "kind": "Manual illustration",
@@ -39587,6 +39720,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Egg LED Attachment",
       "image": {
         "path": "images/part-6SCEGG.webp",
         "kind": "Manual illustration",
@@ -39922,6 +40056,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Zinc Electrode",
       "image": {
         "path": "images/part-6SCEZ.webp",
         "kind": "Manual illustration",
@@ -40224,6 +40359,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Zinc Electrode with Snap",
       "image": {
         "path": "images/part-6SCEZS.webp",
         "kind": "Manual illustration",
@@ -40428,6 +40564,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "0.5A Fuse",
       "image": {
         "path": "images/part_6SCF1.webp",
         "kind": "Product image",
@@ -40644,6 +40781,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fiber Optic Cable",
       "image": {
         "path": "images/part-6SCFC.webp",
         "kind": "Manual illustration",
@@ -40875,6 +41013,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fiber Optic Cable Holder, Black",
       "image": {
         "path": "images/part-6SCFCHB.webp",
         "kind": "Manual illustration",
@@ -41106,6 +41245,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fiber Optic Cable Holder, Clear",
       "image": {
         "path": "images/part-6SCFCHC.webp",
         "kind": "Manual illustration",
@@ -41422,6 +41562,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Prismatic Film",
       "image": {
         "path": "images/part-6SCFILM.webp",
         "kind": "Manual illustration",
@@ -41757,6 +41898,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "FM Module",
       "image": {
         "path": "images/part-6SCFM.webp",
         "kind": "Manual illustration",
@@ -41986,6 +42128,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "FM Radio",
       "image": {
         "path": "images/part-6SCFM2.webp",
         "kind": "Manual illustration",
@@ -42170,6 +42313,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Earphone for 6SCFM2",
       "image": {
         "path": "images/part_6SCFM2B.webp",
         "kind": "Product image",
@@ -42568,6 +42712,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mounting Base (for Fiber Optic Tree)",
       "image": {
         "path": "images/part-6SCFMB.webp",
         "kind": "Manual illustration",
@@ -42798,6 +42943,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mounting Base",
       "image": {
         "path": "images/part_6SCFMB2.webp",
         "kind": "Manual illustration",
@@ -43065,6 +43211,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Red/Green/Blue Filters Set",
       "image": {
         "path": "images/part-6SCFRGB.webp",
         "kind": "Manual illustration",
@@ -43348,6 +43495,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fiber Optic Tree",
       "image": {
         "path": "images/part-6SCFT.webp",
         "kind": "Manual illustration",
@@ -43614,6 +43762,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fiber Optic Festive Tree",
       "image": {
         "path": "images/part-6SCFT2.webp",
         "kind": "Manual illustration",
@@ -43792,6 +43941,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Holiday Tree",
       "image": {
         "path": "images/part_6SCFT3.webp",
         "kind": "Manual illustration",
@@ -43993,6 +44143,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "3D Color Glasses",
       "image": {
         "path": "images/part-6SCG3DC.webp",
         "kind": "Manual illustration",
@@ -44202,6 +44353,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1.0” Gear",
       "image": {
         "path": "images/part-6SCGEAR1.webp",
         "kind": "Manual illustration",
@@ -44434,6 +44586,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1.75” Gear",
       "image": {
         "path": "images/part-6SCGEAR2.webp",
         "kind": "Manual illustration",
@@ -44649,6 +44802,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "2.55” Gear",
       "image": {
         "path": "images/part-6SCGEAR3.webp",
         "kind": "Manual illustration",
@@ -44858,6 +45012,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "3.3” Gear",
       "image": {
         "path": "images/part-6SCGEAR4.webp",
         "kind": "Manual illustration",
@@ -45067,6 +45222,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Small Gear, 22 teeth, for M9",
       "image": {
         "path": "images/part-6SCGEAR5.webp",
         "kind": "Manual illustration",
@@ -45276,6 +45432,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Large Gear, 30 teeth, for M9",
       "image": {
         "path": "images/part-6SCGEAR6.webp",
         "kind": "Manual illustration",
@@ -45515,6 +45672,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Geared Motor",
       "image": {
         "path": "images/part-6SCGM.webp",
         "kind": "Manual illustration",
@@ -45710,6 +45868,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Crank arm for geared motor",
       "image": {
         "path": "images/part-6SCGMC.webp",
         "kind": "Manual illustration",
@@ -45925,6 +46084,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Hand Crank",
       "image": {
         "path": "images/part-6SCHC.webp",
         "kind": "Manual illustration",
@@ -46205,6 +46365,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Package of Iron Filings",
       "image": {
         "path": "images/part-6SCIF.webp",
         "kind": "Manual illustration",
@@ -47187,6 +47348,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire (Black)",
       "image": {
         "path": "images/part-6SCJ1.webp",
         "kind": "Manual illustration",
@@ -48313,6 +48475,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire (Red)",
       "image": {
         "path": "images/part-6SCJ2.webp",
         "kind": "Manual illustration",
@@ -48870,6 +49033,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (Orange)",
       "image": {
         "path": "images/part-6SCJ3A.webp",
         "kind": "Manual illustration",
@@ -49208,6 +49372,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (Yellow)",
       "image": {
         "path": "images/part-6SCJ3B.webp",
         "kind": "Manual illustration",
@@ -49551,6 +49716,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (Green)",
       "image": {
         "path": "images/part-6SCJ3C.webp",
         "kind": "Manual illustration",
@@ -49854,6 +50020,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (Purple)",
       "image": {
         "path": "images/part-6SCJ3D.webp",
         "kind": "Manual illustration",
@@ -50168,6 +50335,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (Gray)",
       "image": {
         "path": "images/part-6SCJ3E.webp",
         "kind": "Manual illustration",
@@ -50488,6 +50656,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 8” (White)",
       "image": {
         "path": "images/part-6SCJ3F.webp",
         "kind": "Manual illustration",
@@ -50967,6 +51136,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Jumper Wire 4” (Blue)",
       "image": {
         "path": "images/part-6SCJ4.webp",
         "kind": "Manual illustration",
@@ -51243,6 +51413,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Red snap-to-pin wire",
       "image": {
         "path": "images/part-6SCJ5RED.webp",
         "kind": "Manual illustration",
@@ -51480,6 +51651,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Audio Jack",
       "image": {
         "path": "images/part-6SCJA.webp",
         "kind": "Manual illustration",
@@ -51679,6 +51851,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap to Banana Plug, black",
       "image": {
         "path": "images/part_6SCJWBJBLK.webp",
         "kind": "Product image",
@@ -51863,6 +52036,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap to Banana Plug, red",
       "image": {
         "path": "images/part_6SCJWBJRED.webp",
         "kind": "Product image",
@@ -52155,6 +52329,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Lamp (spec varies by kit/manual edition)",
       "image": {
         "path": "images/part-6SCL1.webp",
         "kind": "Manual illustration",
@@ -52365,6 +52540,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "2.5V / 3.2V Bulb",
       "image": {
         "path": "images/part_6SCL2B.webp",
         "kind": "Representative bulb image",
@@ -52684,6 +52860,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "6V Lamp (built-in bulb)",
       "image": {
         "path": "images/part-6SCL2.webp",
         "kind": "Manual illustration",
@@ -52925,6 +53102,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "6V / 6.2V Bulb",
       "image": {
         "path": "images/part_6SCL2B.webp",
         "kind": "Product image",
@@ -53341,6 +53519,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "4.5V Lamp (built-in bulb)",
       "image": {
         "path": "images/part-6SCL4.webp",
         "kind": "Manual illustration",
@@ -53587,6 +53766,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "4.5V Bulb",
       "image": {
         "path": "images/part_6SCL2B.webp",
         "kind": "Representative bulb image",
@@ -53762,6 +53942,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Light Cover",
       "image": {
         "path": "images/part-6SCLCOV.webp",
         "kind": "Manual illustration",
@@ -53957,6 +54138,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Set of 3",
       "image": {
         "path": "images/part-6SCLCOVSL.webp",
         "kind": "Manual illustration",
@@ -54211,6 +54393,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Liquid Holder Green",
       "image": {
         "path": "images/part_6SCLH.webp",
         "kind": "Product image",
@@ -54446,6 +54629,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Lined lens LED attachment",
       "image": {
         "path": "images/part-6SCLLENS.webp",
         "kind": "Manual illustration",
@@ -54645,6 +54829,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Unmarked Lamp Socket",
       "image": {
         "path": "images/part-6SCL1.webp",
         "kind": "Representative socket image",
@@ -55230,6 +55415,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Motor",
       "image": {
         "path": "images/part-6SCM1.webp",
         "kind": "Manual illustration",
@@ -55512,6 +55698,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "M10 Motor module",
       "image": {
         "path": "images/part_6SCM10.webp",
         "kind": "Manual illustration",
@@ -55678,6 +55865,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Motor",
       "image": {
         "path": "images/part-6SCM12.webp",
         "kind": "Manual illustration",
@@ -55852,6 +56040,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Cardboard pattern",
       "image": {
         "path": "images/part_6SCM1C.webp",
         "kind": "Manual illustration",
@@ -56105,6 +56294,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disc Holder",
       "image": {
         "path": "images/part-6SCM1DH.webp",
         "kind": "Manual illustration",
@@ -56365,6 +56555,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Set of Disc Cutouts (6 pcs./set)",
       "image": {
         "path": "images/part-6SCM1DS.webp",
         "kind": "Manual illustration",
@@ -56744,6 +56935,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fan",
       "image": {
         "path": "images/part-6SCM1F.webp",
         "kind": "Manual illustration",
@@ -57201,6 +57393,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Glow Fan Blade",
       "image": {
         "path": "images/part-6SCM1FG.webp",
         "kind": "Manual illustration",
@@ -57470,6 +57663,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "String",
       "image": {
         "path": "images/part-6SCM1S.webp",
         "kind": "Manual illustration",
@@ -57798,6 +57992,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Spare Motor Top",
       "image": {
         "path": "images/part-6SCM1T.webp",
         "kind": "Manual illustration",
@@ -58003,6 +58198,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wheel attachment",
       "image": {
         "path": "images/part_6SCM1W.webp",
         "kind": "Product image",
@@ -58259,6 +58455,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Analog Meter",
       "image": {
         "path": "images/part-6SCM2.webp",
         "kind": "Manual illustration",
@@ -58668,6 +58865,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Electromagnet",
       "image": {
         "path": "images/part-6SCM3.webp",
         "kind": "Manual illustration",
@@ -59063,6 +59261,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Iron Core Rod, 36mm",
       "image": {
         "path": "images/part_6SCM3B.webp",
         "kind": "Product image",
@@ -59337,6 +59536,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Iron Core Rod, 46mm",
       "image": {
         "path": "images/part-6SCM3C.webp",
         "kind": "Manual illustration",
@@ -59671,6 +59871,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Bag of Paperclips",
       "image": {
         "path": "images/part-6SCM3P.webp",
         "kind": "Manual illustration",
@@ -60073,6 +60274,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Low-Speed Motor",
       "image": {
         "path": "images/part-6SCM4.webp",
         "kind": "Manual illustration",
@@ -60488,6 +60690,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fan Green",
       "image": {
         "path": "images/part-6SCM4B.webp",
         "kind": "Manual illustration",
@@ -60792,6 +60995,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Water Wheel",
       "image": {
         "path": "images/part-6SCM4C.webp",
         "kind": "Manual illustration",
@@ -61062,6 +61266,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "5V-1mA-1A Meter",
       "image": {
         "path": "images/part-6SCM5.webp",
         "kind": "Manual illustration",
@@ -61375,6 +61580,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "5V-0.5mA-50mA Meter",
       "image": {
         "path": "images/part-6SCM6.webp",
         "kind": "Manual illustration",
@@ -61645,6 +61851,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Light Motor",
       "image": {
         "path": "images/part-6SCM7.webp",
         "kind": "Manual illustration",
@@ -61888,6 +62095,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Programmable Fan",
       "image": {
         "path": "images/part-6SCM8.webp",
         "kind": "Manual illustration",
@@ -62095,6 +62303,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Orange Motor",
       "image": {
         "path": "images/part-6SCM9.webp",
         "kind": "Manual illustration",
@@ -62295,6 +62504,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Gear Insert, for M9",
       "image": {
         "path": "images/part-6SCM9B.webp",
         "kind": "Manual illustration",
@@ -62575,6 +62785,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Permanent Magnet",
       "image": {
         "path": "images/part-6SCMAG.webp",
         "kind": "Manual illustration",
@@ -62758,6 +62969,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Magnet",
       "image": {
         "path": "images/part-6SCMAGFF.webp",
         "kind": "Manual illustration",
@@ -62981,6 +63193,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mirror mounting base",
       "image": {
         "path": "images/part-6SCMBASE.webp",
         "kind": "Manual illustration",
@@ -63197,6 +63410,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Illusion Card Holder",
       "image": {
         "path": "images/part-6SCMBASE2.webp",
         "kind": "Manual illustration",
@@ -63434,6 +63648,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mini Car",
       "image": {
         "path": "images/part-6SCMCAR.webp",
         "kind": "Manual illustration",
@@ -63642,6 +63857,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Merry-go-round base",
       "image": {
         "path": "images/part-6SCMGRB.webp",
         "kind": "Manual illustration",
@@ -63858,6 +64074,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Disc Cutouts (4pcs. / set)",
       "image": {
         "path": "images/part-6SCMGRD.webp",
         "kind": "Manual illustration",
@@ -64074,6 +64291,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Cardboard Figures (9pcs. / set)",
       "image": {
         "path": "images/part-6SCMGRF.webp",
         "kind": "Manual illustration",
@@ -64267,6 +64485,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mirror Ball",
       "image": {
         "path": "images/part-6SCMIRBAL.webp",
         "kind": "Manual illustration",
@@ -64469,6 +64688,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mirror",
       "image": {
         "path": "images/part-6SCMIRROR.webp",
         "kind": "Manual illustration",
@@ -64692,6 +64912,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Springs for mirror mounting base",
       "image": {
         "path": "images/part-6SCMSPRG.webp",
         "kind": "Manual illustration",
@@ -64926,6 +65147,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Nut Snap",
       "image": {
         "path": "images/part-6SCNS.webp",
         "kind": "Manual illustration",
@@ -65097,6 +65319,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Protoboard",
       "image": {
         "path": "images/part_6SCPB.webp",
         "kind": "Catalog image",
@@ -65314,6 +65537,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Airplane Parts",
       "image": {
         "path": "images/part-6SCPLANE.webp",
         "kind": "Manual illustration",
@@ -65522,6 +65746,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Projector LED attachment",
       "image": {
         "path": "images/part-6SCPROJ.webp",
         "kind": "Manual illustration",
@@ -65791,6 +66016,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Pivot Stand Base",
       "image": {
         "path": "images/part-6SCPSB.webp",
         "kind": "Manual illustration",
@@ -66035,6 +66261,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Pivot Post",
       "image": {
         "path": "images/part-6SCPSP.webp",
         "kind": "Manual illustration",
@@ -66273,6 +66500,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Pivot Top",
       "image": {
         "path": "images/part-6SCPST.webp",
         "kind": "Manual illustration",
@@ -66488,6 +66716,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "0.9” Pulley",
       "image": {
         "path": "images/part-6SCPULL1.webp",
         "kind": "Manual illustration",
@@ -66697,6 +66926,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1.3” Pulley",
       "image": {
         "path": "images/part-6SCPULL2.webp",
         "kind": "Manual illustration",
@@ -66906,6 +67136,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "2.1” Pulley",
       "image": {
         "path": "images/part-6SCPULL3.webp",
         "kind": "Manual illustration",
@@ -67223,6 +67454,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Two-spring Socket",
       "image": {
         "path": "images/part-6SCPY1.webp",
         "kind": "Manual illustration",
@@ -67456,6 +67688,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Three-Spring Socket",
       "image": {
         "path": "images/part_6SCPYQ.webp",
         "kind": "Manual illustration",
@@ -67641,6 +67874,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Eight-Pin IC Socket",
       "image": {
         "path": "images/part_6SCPYU8.webp",
         "kind": "Manual illustration",
@@ -68022,6 +68256,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "PNP Transistor",
       "image": {
         "path": "images/part-6SCQ1.webp",
         "kind": "Manual illustration",
@@ -68828,6 +69063,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "NPN Transistor",
       "image": {
         "path": "images/part-6SCQ2.webp",
         "kind": "Manual illustration",
@@ -69259,6 +69495,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCR",
       "image": {
         "path": "images/part-6SCQ3.webp",
         "kind": "Manual illustration",
@@ -69707,6 +69944,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Phototransistor",
       "image": {
         "path": "images/part-6SCQ4.webp",
         "kind": "Manual illustration",
@@ -69928,6 +70166,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "IR Sensor",
       "image": {
         "path": "images/part-6SCQ5.webp",
         "kind": "Manual illustration",
@@ -70497,6 +70736,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "100Ω Resistor",
       "image": {
         "path": "images/part-6SCR1.webp",
         "kind": "Manual illustration",
@@ -71116,6 +71356,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "1kΩ Resistor",
       "image": {
         "path": "images/part-6SCR2.webp",
         "kind": "Manual illustration",
@@ -71696,6 +71937,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "5.1kΩ Resistor",
       "image": {
         "path": "images/part-6SCR3.webp",
         "kind": "Manual illustration",
@@ -72175,6 +72417,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "10kΩ Resistor",
       "image": {
         "path": "images/part-6SCR4.webp",
         "kind": "Manual illustration",
@@ -72728,6 +72971,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "100kΩ Resistor",
       "image": {
         "path": "images/part-6SCR5.webp",
         "kind": "Manual illustration",
@@ -73040,6 +73284,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rover Body",
       "image": {
         "path": "images/part_6SCRB.webp",
         "kind": "Assembly detail",
@@ -73218,6 +73463,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rover Body, Light Gray",
       "image": {
         "path": "images/part_6SCRB2.webp",
         "kind": "Assembly detail",
@@ -73629,6 +73875,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Photoresistor",
       "image": {
         "path": "images/part-6SCRP.webp",
         "kind": "Manual illustration",
@@ -73908,6 +74155,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber ring, 0.375” dia.",
       "image": {
         "path": "images/part-6SCRUBRG.webp",
         "kind": "Manual illustration",
@@ -74461,6 +74709,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Adjustable Resistor 50kΩ",
       "image": {
         "path": "images/part-6SCRV.webp",
         "kind": "Manual illustration",
@@ -74822,6 +75071,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Adjustable Resistor 10kΩ",
       "image": {
         "path": "images/part-6SCRV2.webp",
         "kind": "Manual illustration",
@@ -75076,6 +75326,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Adjustable Resistor 500kΩ",
       "image": {
         "path": "images/part-6SCRV3.webp",
         "kind": "Manual illustration",
@@ -75258,6 +75509,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "5KΩ Adjustable Resistor",
       "image": {
         "path": "images/part-6SCRV4.webp",
         "kind": "Manual illustration",
@@ -75468,6 +75720,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "R/C Receiver",
       "image": {
         "path": "images/part-6SCRX1.webp",
         "kind": "Manual illustration",
@@ -75676,6 +75929,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Deluxe R/C Receiver",
       "image": {
         "path": "images/part-6SCRX2.webp",
         "kind": "Manual illustration",
@@ -76810,6 +77064,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Slide Switch",
       "image": {
         "path": "images/part-6SCS1.webp",
         "kind": "Manual illustration",
@@ -78004,6 +78259,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Press Switch",
       "image": {
         "path": "images/part-6SCS2.webp",
         "kind": "Manual illustration",
@@ -78512,6 +78768,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Relay",
       "image": {
         "path": "images/part-6SCS3.webp",
         "kind": "Manual illustration",
@@ -78854,6 +79111,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Vibration Switch",
       "image": {
         "path": "images/part-6SCS4.webp",
         "kind": "Manual illustration",
@@ -79142,6 +79400,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SPDT Switch",
       "image": {
         "path": "images/part-6SCS5.webp",
         "kind": "Manual illustration",
@@ -79403,6 +79662,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Switcher S6",
       "image": {
         "path": "images/part-6SCS6.webp",
         "kind": "Manual illustration",
@@ -79655,6 +79915,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Tilt switch",
       "image": {
         "path": "images/part-6SCS7.webp",
         "kind": "Manual illustration",
@@ -79864,6 +80125,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Selector",
       "image": {
         "path": "images/part-6SCS8.webp",
         "kind": "Manual illustration",
@@ -80104,6 +80366,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Reed Switch",
       "image": {
         "path": "images/part-6SCS9.webp",
         "kind": "Manual illustration",
@@ -80276,6 +80539,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Soccer Balls",
       "image": {
         "path": "images/part-6SCSCRBAL.webp",
         "kind": "Manual illustration",
@@ -80441,6 +80705,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Corner",
       "image": {
         "path": "images/part-6SCSCRCOR.webp",
         "kind": "Manual illustration",
@@ -80620,6 +80885,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Components Parts Tray",
       "image": {
         "path": "images/part-6SCSCRCPT.webp",
         "kind": "Manual illustration",
@@ -80821,6 +81087,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Screw PAW 2.6mm x 6mm",
       "image": {
         "path": "images/part-6SCSCREW1.webp",
         "kind": "Manual illustration",
@@ -81023,6 +81290,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Screw PA 2.3mm x 8mm",
       "image": {
         "path": "images/part-6SCSCREW2.webp",
         "kind": "Manual illustration",
@@ -81225,6 +81493,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Screw PM 3x8 mm",
       "image": {
         "path": "images/part-6SCSCREW3.webp",
         "kind": "Manual illustration",
@@ -81391,6 +81660,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Fastener",
       "image": {
         "path": "images/part-6SCSCRFAS.webp",
         "kind": "Manual illustration",
@@ -81556,6 +81826,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goal Bottom",
       "image": {
         "path": "images/part-6SCSCRGB.webp",
         "kind": "Manual illustration",
@@ -81721,6 +81992,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goalie Bar Support",
       "image": {
         "path": "images/part-6SCSCRGBS.webp",
         "kind": "Manual illustration",
@@ -81886,6 +82158,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goalie Control Bar",
       "image": {
         "path": "images/part-6SCSCRGCB.webp",
         "kind": "Manual illustration",
@@ -82051,6 +82324,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goalie",
       "image": {
         "path": "images/part-6SCSCRGOA.webp",
         "kind": "Manual illustration",
@@ -82216,6 +82490,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goal Side Plastic",
       "image": {
         "path": "images/part-6SCSCRGSP.webp",
         "kind": "Manual illustration",
@@ -82381,6 +82656,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goal Top",
       "image": {
         "path": "images/part-6SCSCRGT.webp",
         "kind": "Manual illustration",
@@ -82546,6 +82822,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kicker Control Bar",
       "image": {
         "path": "images/part-6SCSCRKCB.webp",
         "kind": "Manual illustration",
@@ -82711,6 +82988,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kicker Side Plastic",
       "image": {
         "path": "images/part-6SCSCRKSP.webp",
         "kind": "Manual illustration",
@@ -82897,6 +83175,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "3 Sticker-Parts Sheet",
       "image": {
         "path": "images/part-6SCSCRLS3.webp",
         "kind": "Manual illustration",
@@ -83062,6 +83341,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Goal Back",
       "image": {
         "path": "images/part-6SCSCRNFB.webp",
         "kind": "Manual illustration",
@@ -83248,6 +83528,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Plastic Nut",
       "image": {
         "path": "images/part-6SCSCRNUT.webp",
         "kind": "Manual illustration",
@@ -83413,6 +83694,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Field",
       "image": {
         "path": "images/part-6SCSCRPF.webp",
         "kind": "Manual illustration",
@@ -83599,6 +83881,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber feet (Pre-installed)",
       "image": {
         "path": "images/part-6SCSCRRFT.webp",
         "kind": "Manual illustration",
@@ -83785,6 +84068,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber Trim, Long",
       "image": {
         "path": "images/part-6SCSCRRL.webp",
         "kind": "Manual illustration",
@@ -83971,6 +84255,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber Trim, Medium",
       "image": {
         "path": "images/part-6SCSCRRM.webp",
         "kind": "Manual illustration",
@@ -84157,6 +84442,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Rubber Trim, Short",
       "image": {
         "path": "images/part-6SCSCRRS.webp",
         "kind": "Manual illustration",
@@ -84343,6 +84629,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Stadium Cardboard",
       "image": {
         "path": "images/part-6SCSCRSC.webp",
         "kind": "Manual illustration",
@@ -84529,6 +84816,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Plastic Screw",
       "image": {
         "path": "images/part-6SCSCRSCR.webp",
         "kind": "Manual illustration",
@@ -84715,6 +85003,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Multi-Sticker Sheet",
       "image": {
         "path": "images/part-6SCSCRSTK.webp",
         "kind": "Manual illustration",
@@ -84880,6 +85169,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wire Hub",
       "image": {
         "path": "images/part-6SCSCRWH.webp",
         "kind": "Manual illustration",
@@ -85095,6 +85385,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Sound Energy Demo Base",
       "image": {
         "path": "images/part-6SCSEDCB.webp",
         "kind": "Manual illustration",
@@ -85317,6 +85608,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Sound Energy Demo Sheet",
       "image": {
         "path": "images/part-6SCSEDCF.webp",
         "kind": "Manual illustration",
@@ -85539,6 +85831,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Sound Energy Demo Tube",
       "image": {
         "path": "images/part-6SCSEDCT.webp",
         "kind": "Manual illustration",
@@ -85736,6 +86029,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Wind Fan",
       "image": {
         "path": "images/part-6SCM4B.webp",
         "kind": "Source variant image",
@@ -86199,6 +86493,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Speaker",
       "image": {
         "path": "images/part-6SCSP.webp",
         "kind": "Manual illustration",
@@ -86716,6 +87011,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Speaker 32Ω",
       "image": {
         "path": "images/part-6SCSP2.webp",
         "kind": "Manual illustration",
@@ -86936,6 +87232,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SP3 Speaker",
       "image": {
         "path": "images/part_6SCSP3.webp",
         "kind": "Manual illustration",
@@ -87160,6 +87457,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Stabilizer",
       "image": {
         "path": "images/part-6SCSTAB.webp",
         "kind": "Manual illustration",
@@ -87348,6 +87646,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Purple Tint",
       "image": {
         "path": "images/part-6SCSTABPR.webp",
         "kind": "Manual illustration",
@@ -87612,6 +87911,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Transformer",
       "image": {
         "path": "images/part-6SCT1.webp",
         "kind": "Manual illustration",
@@ -87879,6 +88179,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Clock",
       "image": {
         "path": "images/part-6SCT2.webp",
         "kind": "Manual illustration",
@@ -88162,6 +88463,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Tower LED Attachment",
       "image": {
         "path": "images/part-6SCTOWER.webp",
         "kind": "Manual illustration",
@@ -88407,6 +88709,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Remote Control Unit",
       "image": {
         "path": "images/part_6SCTX1.webp",
         "kind": "Product image",
@@ -88640,6 +88943,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "R/C Antenna",
       "image": {
         "path": "images/part_6SCTX1A.webp",
         "kind": "Product image",
@@ -88961,6 +89265,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Music Integrated Circuit",
       "image": {
         "path": "images/part-6SCU1.webp",
         "kind": "Manual illustration",
@@ -89254,6 +89559,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS Inverter Gate 4069",
       "image": {
         "path": "images/part_6SCU15.webp",
         "kind": "Manual illustration",
@@ -89522,6 +89828,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS AND Gate 4081",
       "image": {
         "path": "images/part_6SCU16.webp",
         "kind": "Manual illustration",
@@ -89790,6 +90097,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS OR Gate 4071",
       "image": {
         "path": "images/part_6SCU17.webp",
         "kind": "Manual illustration",
@@ -90058,6 +90366,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS NAND Gate 4011",
       "image": {
         "path": "images/part_6SCU18.webp",
         "kind": "Manual illustration",
@@ -90326,6 +90635,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS NOR Gate 4001",
       "image": {
         "path": "images/part_6SCU19.webp",
         "kind": "Manual illustration",
@@ -90786,6 +91096,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Alarm Integrated Circuit",
       "image": {
         "path": "images/part-6SCU2.webp",
         "kind": "Manual illustration",
@@ -91115,6 +91426,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CMOS XOR Gate 4070",
       "image": {
         "path": "images/part_6SCU20.webp",
         "kind": "Manual illustration",
@@ -91367,6 +91679,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U21 PICAXE® Micro IC in socket",
       "image": {
         "path": "images/part-6SCU21.webp",
         "kind": "Manual illustration",
@@ -91573,6 +91886,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U21 8-pin Socket w/ Micro Marking",
       "image": {
         "path": "images/part_6SCU21S.webp",
         "kind": "Product image",
@@ -91803,6 +92117,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Color Organ",
       "image": {
         "path": "images/part-6SCU22.webp",
         "kind": "Manual illustration",
@@ -92118,6 +92433,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Strobe IC",
       "image": {
         "path": "images/part-6SCU23.webp",
         "kind": "Manual illustration",
@@ -92382,6 +92698,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Infrared Receiver",
       "image": {
         "path": "images/part-6SCU24.webp",
         "kind": "Manual illustration",
@@ -92619,6 +92936,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Keyboard",
       "image": {
         "path": "images/part-6SCU26.webp",
         "kind": "Manual illustration",
@@ -92856,6 +93174,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Voice Changer",
       "image": {
         "path": "images/part-6SCU27.webp",
         "kind": "Manual illustration",
@@ -93093,6 +93412,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Echo IC",
       "image": {
         "path": "images/part-6SCU28.webp",
         "kind": "Manual illustration",
@@ -93350,6 +93670,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "LED Display & Microcontroller",
       "image": {
         "path": "images/part-6SCU29.webp",
         "kind": "Manual illustration",
@@ -93683,6 +94004,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Space War Integrated Circuit",
       "image": {
         "path": "images/part-6SCU3.webp",
         "kind": "Manual illustration",
@@ -93935,6 +94257,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Light Tunnel",
       "image": {
         "path": "images/part-6SCU30.webp",
         "kind": "Manual illustration",
@@ -94175,6 +94498,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snapino module",
       "image": {
         "path": "images/part-6SCU31.webp",
         "kind": "Manual illustration",
@@ -94507,6 +94831,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Melody IC",
       "image": {
         "path": "images/part-6SCU32.webp",
         "kind": "Manual illustration",
@@ -94764,6 +95089,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC Controller",
       "image": {
         "path": "images/part-6SCU33.webp",
         "kind": "Manual illustration",
@@ -94973,6 +95299,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U34 Voice Changer IC",
       "image": {
         "path": "images/part_6SCU34.webp",
         "kind": "Manual illustration",
@@ -95216,6 +95543,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Sound / scoring module — source conflict",
       "image": {
         "path": "images/part-6SCU35-observations.webp",
         "kind": "Conflicting source images",
@@ -95537,6 +95865,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Power Amplifier IC",
       "image": {
         "path": "images/part-6SCU4.webp",
         "kind": "Manual illustration",
@@ -95818,6 +96147,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "High Frequency IC",
       "image": {
         "path": "images/part-6SCU5.webp",
         "kind": "Manual illustration",
@@ -96200,6 +96530,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Recording IC",
       "image": {
         "path": "images/part-6SCU6.webp",
         "kind": "Manual illustration",
@@ -96583,6 +96914,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Motion Detector IC (for SCP-03)",
       "image": {
         "path": "images/part-6SCU7.webp",
         "kind": "Manual illustration",
@@ -96833,6 +97165,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Motor Control IC",
       "image": {
         "path": "images/part-6SCU8.webp",
         "kind": "Manual illustration",
@@ -97056,6 +97389,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Sound & Recording IC",
       "image": {
         "path": "images/part-6SCU9.webp",
         "kind": "Manual illustration",
@@ -97348,6 +97682,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Vertical snap wire 90°",
       "image": {
         "path": "images/part-6SCV1.webp",
         "kind": "Manual illustration",
@@ -97612,6 +97947,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Vertical Snap Wire 45°",
       "image": {
         "path": "images/part-6SCV2.webp",
         "kind": "Manual illustration",
@@ -97983,6 +98319,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Horn",
       "image": {
         "path": "images/part-6SCW1.webp",
         "kind": "Manual illustration",
@@ -98273,6 +98610,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Whistle Chip",
       "image": {
         "path": "images/part-6SCWC.webp",
         "kind": "Manual illustration",
@@ -98487,6 +98825,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Coil for BYO electromagnet",
       "image": {
         "path": "images/part-6SCWIRE1.webp",
         "kind": "Manual illustration",
@@ -98982,6 +99321,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Microphone",
       "image": {
         "path": "images/part-6SCX1.webp",
         "kind": "Manual illustration",
@@ -99243,6 +99583,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "X2 Roller on snaps",
       "image": {
         "path": "images/part_6SCX2.webp",
         "kind": "Product image",
@@ -99446,6 +99787,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Foam ball",
       "image": {
         "path": "images/part_6SCX2B.webp",
         "kind": "Manual illustration",
@@ -99627,6 +99969,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "X3 USB module",
       "image": {
         "path": "images/part_6SCX3.webp",
         "kind": "Manual illustration",
@@ -99799,6 +100142,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Microphone",
       "image": {
         "path": "images/part-6SCX1.webp",
         "kind": "Representative microphone image",
@@ -99969,6 +100313,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Shopping Tote Bag - Black",
       "image": {
         "path": "images/part_6TOTEBAG1.webp",
         "kind": "Manual illustration",
@@ -100163,6 +100508,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "AC Power Supply",
       "image": {
         "path": "images/part_9ACSNAP.webp",
         "kind": "Manual illustration",
@@ -100341,6 +100687,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "AC Power Supply for UK",
       "image": {
         "path": "images/part_9ACSNAPUK.webp",
         "kind": "Product image",
@@ -100491,6 +100838,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CD with Software",
       "image": {
         "path": "images/part_9CDXP50.webp",
         "kind": "Software screenshot",
@@ -100680,6 +101028,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Computer Interface 73 Experiments",
       "image": {
         "path": "images/part_9CI73.webp",
         "kind": "Product image",
@@ -100882,6 +101231,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap-to-Pin Lead",
       "image": {
         "path": "images/part_9SCJW10.webp",
         "kind": "Alternate-number image",
@@ -101101,6 +101451,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap-to-Pin Set, 10 pcs.",
       "image": {
         "path": "images/part_9SCJW10.webp",
         "kind": "Manual illustration",
@@ -101311,6 +101662,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap-to-female Set, 10 pcs.",
       "image": {
         "path": "images/part_9SCJW20.webp",
         "kind": "Manual illustration",
@@ -101480,6 +101832,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Deluxe Case w/ Foam Inserts",
       "image": {
         "path": "images/part_9SNAPCASE7.webp",
         "kind": "Catalog image",
@@ -101649,6 +102002,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Same as Above w/o Parts ID",
       "image": {
         "path": "images/part_9SNAPCASE8.webp",
         "kind": "Manual illustration",
@@ -101827,6 +102181,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Computer Interface Cable",
       "image": {
         "path": "images/part_9TLCI73.webp",
         "kind": "Manual illustration",
@@ -102067,6 +102422,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Stereo Cable",
       "image": {
         "path": "images/part-9TLSCST.webp",
         "kind": "Manual illustration",
@@ -102280,6 +102636,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "USB cable, A-male to B-male",
       "image": {
         "path": "images/part-9TLSCUSBAB.webp",
         "kind": "Manual illustration",
@@ -102438,6 +102795,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "USB cable",
       "image": {
         "path": "images/part_9TLSCUSBAC.webp",
         "kind": "Manual illustration",
@@ -102605,6 +102963,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Programming Cable",
       "image": {
         "path": "images/part_9TLSCXP.webp",
         "kind": "Manual illustration",
@@ -102890,6 +103249,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Thin Metal Bar",
       "image": {
         "path": "images/part-MWK01P5.webp",
         "kind": "Manual illustration",
@@ -103428,6 +103788,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Magic of Electrons classroom kit",
       "manual_links": [
         {
           "title": "Find 9PLTW1 at Elenco",
@@ -103951,6 +104312,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Circuit Maker Skill Builder 125",
       "manual_links": [
         {
           "title": "CM-125_Manual_email.pdf",
@@ -104364,6 +104726,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Circuit Maker Skill Builder 200",
       "manual_links": [
         {
           "title": "CM-200_Manual_Low-res.pdf",
@@ -104775,6 +105138,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SB-125 Explorer",
       "manual_links": [
         {
           "title": "SB-125_Manual_2023_Full.pdf",
@@ -106101,6 +106465,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Jr.",
       "manual_links": [
         {
           "title": "SC-100_REV-H2-3.pdf",
@@ -106496,6 +106861,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Jr. Educational 100 Exp.",
       "manual_links": [
         {
           "title": "SC_Teacher-Guide.pdf",
@@ -106668,6 +107034,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kit name not yet confirmed",
       "manual_links": [
         {
           "title": "Find SC110 at Elenco",
@@ -107297,6 +107664,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Jr. Select",
       "manual_links": [
         {
           "title": "753286-2.pdf",
@@ -108682,6 +109050,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Classic",
       "manual_links": [
         {
           "title": "UC30-2.pdf",
@@ -109087,6 +109456,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-300R Snap Circuits® Training Program",
       "manual_links": [
         {
           "title": "SC_Teacher-Guide.pdf",
@@ -109332,6 +109702,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® 300-in-1 with Computer Interface",
       "manual_links": [
         {
           "title": "Find SC300S at Elenco",
@@ -109505,6 +109876,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kit name not yet confirmed",
       "manual_links": [
         {
           "title": "Find SC310 at Elenco",
@@ -109918,6 +110290,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® 3D Illumination",
       "manual_links": [
         {
           "title": "SC-3Di_Manual-2.pdf",
@@ -110502,6 +110875,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® 3D M.E.G.",
       "manual_links": [
         {
           "title": "SC-3DMEG_Manual_PRINT_Small.pdf",
@@ -111816,6 +112190,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Pro",
       "manual_links": [
         {
           "title": "UC50-2.pdf",
@@ -112245,6 +112620,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-500R Snap Circuits® Training Program",
       "manual_links": [
         {
           "title": "SC_Teacher-Guide.pdf",
@@ -112490,6 +112866,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Pro/ Computer Interface",
       "manual_links": [
         {
           "title": "Find SC500S at Elenco",
@@ -112663,6 +113040,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kit name not yet confirmed",
       "manual_links": [
         {
           "title": "Find SC510 at Elenco",
@@ -113894,6 +114272,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Extreme",
       "manual_links": [
         {
           "title": "SC-750_REV-E1-3.pdf",
@@ -114359,6 +114738,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-750R Snap Circuits® Training Program",
       "manual_links": [
         {
           "title": "SC_Teacher-Guide.pdf",
@@ -114531,6 +114911,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Kit name not yet confirmed",
       "manual_links": [
         {
           "title": "Find SC760 at Elenco",
@@ -115188,6 +115569,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Arcade",
       "manual_links": [
         {
           "title": "SCA-200_Manual1.pdf",
@@ -115933,6 +116315,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Beginner",
       "manual_links": [
         {
           "title": "753097-2.pdf",
@@ -116570,6 +116953,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snaptricity®",
       "manual_links": [
         {
           "title": "SCBE75.pdf",
@@ -116880,6 +117264,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SNAP 2 IT",
       "manual_links": [
         {
           "title": "Snap2It_InstructionManual_6PG_V2-1.pdf",
@@ -117369,6 +117754,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Bric: Structures",
       "manual_links": [
         {
           "title": "SC-BRICs_Manual_LR.pdf",
@@ -117693,6 +118079,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Bric Light",
       "manual_links": [
         {
           "title": "SCBRLT1_BRIC-Light_2025_Manual_F_LR-1.pdf",
@@ -118301,6 +118688,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Sound & Light Combo",
       "manual_links": [
         {
           "title": "SCC-350_Manual.pdf",
@@ -118788,6 +119176,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits Discover Coding",
       "manual_links": [
         {
           "title": "Discover-Coding_Manual-2020_LR.pdf",
@@ -119140,6 +119529,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Logic Gates",
       "manual_links": [
         {
           "title": "DLG-100-2.pdf",
@@ -119506,6 +119896,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Logic Gates and Circuits",
       "manual_links": [
         {
           "title": "DLG-200-2.pdf",
@@ -119975,6 +120366,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits Explore Coding",
       "manual_links": [
         {
           "title": "Explore-Coding_Manual_2020_LR.pdf",
@@ -120258,6 +120650,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-EGGLIGHT",
       "manual_links": [
         {
           "title": "EggLight-Manual2023_FinalPrint.pdf",
@@ -120613,6 +121006,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Flight Deck",
       "manual_links": [
         {
           "title": "SC-FLTKIT-Manuals-English-French.pdf",
@@ -121374,6 +121768,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Green",
       "manual_links": [
         {
           "title": "SCG125-3.pdf",
@@ -122040,6 +122435,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits Green Energy",
       "manual_links": [
         {
           "title": "SCG-225_Manual_2020_LR.pdf",
@@ -122277,6 +122673,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Game Play",
       "manual_links": [
         {
           "title": "Find SCGMPLY at Elenco",
@@ -122718,6 +123115,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Green Energy LAB",
       "manual_links": [
         {
           "title": "SC_GRNENGKIT_full_web_2024-Manual.pdf",
@@ -123163,6 +123561,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Home Learning",
       "manual_links": [
         {
           "title": "2018_SCHL-1_Manual_LR.pdf",
@@ -123344,6 +123743,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Home Learning Electronic Fun",
       "manual_links": [
         {
           "title": "Find SCHLEF25 at Elenco",
@@ -123615,6 +124015,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-HOLTR1",
       "manual_links": [
         {
           "title": "SC-HOLTR1_manual_F.pdf",
@@ -124028,6 +124429,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits Code Journey",
       "manual_links": [
         {
           "title": "Code-Journey-manual_LR.pdf",
@@ -124922,6 +125324,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® LIGHT",
       "manual_links": [
         {
           "title": "SCL175-2.pdf",
@@ -125179,6 +125582,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Light Tower",
       "manual_links": [
         {
           "title": "SC-LTWR4_Manual.pdf",
@@ -125943,6 +126347,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Motion",
       "manual_links": [
         {
           "title": "753134.pdf",
@@ -126239,6 +126644,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® SnapMicro I Standard",
       "manual_links": [
         {
           "title": "Snap-Micro_Rev_C-3.pdf",
@@ -126428,6 +126834,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits SnapMicro I Deluxe ®",
       "manual_links": [
         {
           "title": "UC100_revA-2.pdf",
@@ -126949,6 +127356,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MEGA 200",
       "manual_links": [
         {
           "title": "mega200.pdf",
@@ -127258,6 +127666,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Magnet Fun Lab",
       "manual_links": [
         {
           "title": "SC-MagnetFunLab_Manual_2026.pdf",
@@ -127829,6 +128238,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits MyHome",
       "manual_links": [
         {
           "title": "MyHome-Manual-Master_Part-1.pdf",
@@ -128364,6 +128774,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits MyHomePlus",
       "manual_links": [
         {
           "title": "MyHome-PLUS-Manual_Part-1.pdf",
@@ -128731,6 +129142,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-NITELITE",
       "manual_links": [
         {
           "title": "SC-NiteLite_Manual_F.pdf",
@@ -129109,6 +129521,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits Musical Recorder ®",
       "manual_links": [
         {
           "title": "SCP01-2.pdf",
@@ -129480,6 +129893,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits FM Radio ®",
       "manual_links": [
         {
           "title": "SCP02-2.pdf",
@@ -129949,6 +130363,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits Motion Detector ®",
       "manual_links": [
         {
           "title": "SCP-03_Instructions.pdf",
@@ -130169,6 +130584,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mini Kits kit",
       "manual_links": [
         {
           "title": "Find SCP04 at Elenco",
@@ -130390,6 +130806,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Mini Kits kit",
       "manual_links": [
         {
           "title": "Find SCP05 at Elenco",
@@ -130742,6 +131159,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Flying Saucer",
       "manual_links": [
         {
           "title": "SCP06-3.pdf",
@@ -131008,6 +131426,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits Water Clock ®",
       "manual_links": [
         {
           "title": "SCP07-2.pdf",
@@ -131317,6 +131736,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Electromagnetism",
       "manual_links": [
         {
           "title": "SCP08-2.pdf",
@@ -131726,6 +132146,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Flying Saucer Plus",
       "manual_links": [
         {
           "title": "SCP-09_Manual-3.pdf",
@@ -132117,6 +132538,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Basic Electricity",
       "manual_links": [
         {
           "title": "SCP-10_Manual-3.pdf",
@@ -132512,6 +132934,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® LED Fun",
       "manual_links": [
         {
           "title": "SCP-11_Manual-3.pdf",
@@ -132995,6 +133418,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® FM Radio",
       "manual_links": [
         {
           "title": "SCP-12_Manual-3.pdf",
@@ -133431,6 +133855,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Motion Detector",
       "manual_links": [
         {
           "title": "SCP-13_Manual-3.pdf",
@@ -133840,6 +134265,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® Strobe Light and Sound",
       "manual_links": [
         {
           "title": "SCP-14_Manual-3.pdf",
@@ -134037,6 +134463,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Seasonal kit",
       "manual_links": [
         {
           "title": "Find SCPMKLT at Elenco",
@@ -134211,6 +134638,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Seasonal kit",
       "manual_links": [
         {
           "title": "Find SCPMKLT1 at Elenco",
@@ -134842,6 +135270,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "RC Snap Rover®",
       "manual_links": [
         {
           "title": "753131-2.pdf",
@@ -135515,6 +135944,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Discontinued-Snap Circuits® Deluxe Snap Rover®",
       "manual_links": [
         {
           "title": "UC90-2.pdf",
@@ -136057,6 +136487,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® SOUND",
       "manual_links": [
         {
           "title": "SCS-185_Manual.pdf",
@@ -136230,6 +136661,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "STEM Classroom Activity Kit",
       "manual_links": [
         {
           "title": "Find SCSC3CP at Elenco",
@@ -136680,6 +137112,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Soccer Shot",
       "manual_links": [
         {
           "title": "SC-SoccerShot_Manual_2026.pdf",
@@ -136938,6 +137371,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap & Draw",
       "manual_links": [
         {
           "title": "Snap_Draw_Sound-Circuits_manual.pdf",
@@ -137384,6 +137818,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SNAPINO",
       "manual_links": [
         {
           "title": "SCSNAPINO_Manual.pdf",
@@ -137564,6 +137999,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Holiday Ornament",
       "manual_links": [
         {
           "title": "Find SCSNSFS1 at Elenco",
@@ -138016,6 +138452,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SNAP CIRCUITS® SPY ACTIVITY KIT",
       "manual_links": [
         {
           "title": "SC-Spy1_Manual_Web.pdf",
@@ -138627,6 +139064,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Circuits® STEM",
       "manual_links": [
         {
           "title": "SC_STEM1_manual_PRINT_Small.pdf",
@@ -139092,6 +139530,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Snap Circuits® XP",
       "manual_links": [
         {
           "title": "SCXP-50.pdf",
@@ -139314,6 +139753,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DISCONTINUED – Upgrade Kit SC300 & UP to SCM400",
       "manual_links": [
         {
           "title": "UC100_revA-2.pdf",
@@ -139576,6 +140016,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Limited Stock – Upgrade Kit SC100 to SC300",
       "manual_links": [
         {
           "title": "Find UC30 at Elenco",
@@ -140093,6 +140534,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Limited Stock – Upgrade Kit SC100 to SC500",
       "manual_links": [
         {
           "title": "UC40.pdf",
@@ -140413,6 +140855,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Upgrade Kit SC300 to SC500",
       "manual_links": [
         {
           "title": "Find UC50 at Elenco",
@@ -141006,6 +141449,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Limited Stock – Upgrade Kit SC100 to SC750",
       "manual_links": [
         {
           "title": "UC60.pdf",
@@ -141550,6 +141994,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Upgrade Kit SC300 to SC750",
       "manual_links": [
         {
           "title": "UC70.pdf",
@@ -141976,6 +142421,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Upgrade Kit SC500 to SC750",
       "manual_links": [
         {
           "title": "UC80.pdf",
@@ -142280,6 +142726,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Upgrade Kit SCROV10 to SCROV50",
       "manual_links": [
         {
           "title": "Find UC90 at Elenco",
@@ -142473,6 +142920,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Limited Stock – Disc Launcher for SCROV50 (included in UC90)",
       "manual_links": [
         {
           "title": "Find UCDL at Elenco",
@@ -142729,6 +143177,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP07-2",
       "manual_links": [
         {
           "title": "SCP07-2.pdf",
@@ -143221,6 +143670,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-3DMEG Manual PRINT Small",
       "manual_links": [
         {
           "title": "SC-3DMEG_Manual_PRINT_Small.pdf",
@@ -143538,6 +143988,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753104-2",
       "manual_links": [
         {
           "title": "UC50-2.pdf",
@@ -144081,6 +144532,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCG-225 Manual 2020 LR",
       "manual_links": [
         {
           "title": "SCG-225_Manual_2020_LR.pdf",
@@ -144359,6 +144811,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753292-2",
       "manual_links": [
         {
           "title": "SC-750_REV-E1-3.pdf",
@@ -144554,6 +145007,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CI-73 REV-E 051314 sm-2",
       "manual_links": [
         {
           "title": "CI-73_REV-E_051314_sm-2.pdf",
@@ -144735,6 +145189,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U4-2",
       "manual_links": [
         {
           "title": "U4-2.pdf",
@@ -145142,6 +145597,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SB-125 Manual 2023 Full",
       "manual_links": [
         {
           "title": "SB-125_Manual_2023_Full.pdf",
@@ -145536,6 +145992,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-3Di Manual-2",
       "manual_links": [
         {
           "title": "SC-3Di_Manual-2.pdf",
@@ -146112,6 +146569,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753134",
       "manual_links": [
         {
           "title": "753134.pdf",
@@ -146293,6 +146751,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "RX2-2",
       "manual_links": [
         {
           "title": "RX2-2.pdf",
@@ -146581,6 +147040,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-03 Instructions",
       "manual_links": [
         {
           "title": "SCP-03_Instructions.pdf",
@@ -147009,6 +147469,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCXP-50",
       "manual_links": [
         {
           "title": "SCXP-50.pdf",
@@ -147190,6 +147651,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U2-2",
       "manual_links": [
         {
           "title": "U2-2.pdf",
@@ -147590,6 +148052,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCBE75",
       "manual_links": [
         {
           "title": "SCBE75.pdf",
@@ -147771,6 +148234,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DL-2",
       "manual_links": [
         {
           "title": "DL-2.pdf",
@@ -148087,6 +148551,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-14 Manual-3",
       "manual_links": [
         {
           "title": "SCP-14_Manual-3.pdf",
@@ -148270,6 +148735,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "AC-SNAP 102512-2",
       "manual_links": [
         {
           "title": "AC-SNAP_102512-2.pdf",
@@ -148467,6 +148933,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCM450 revA-2",
       "manual_links": [
         {
           "title": "UC100_revA-2.pdf",
@@ -148789,6 +149256,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-09 Manual-3",
       "manual_links": [
         {
           "title": "SCP-09_Manual-3.pdf",
@@ -148970,6 +149438,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "FM-2",
       "manual_links": [
         {
           "title": "FM-2.pdf",
@@ -149151,6 +149620,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U5-2",
       "manual_links": [
         {
           "title": "U5-2.pdf",
@@ -149488,6 +149958,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753131-2",
       "manual_links": [
         {
           "title": "753131-2.pdf",
@@ -149734,6 +150205,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "EggLight-Manual2023 FinalPrint",
       "manual_links": [
         {
           "title": "EggLight-Manual2023_FinalPrint.pdf",
@@ -150008,6 +150480,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-10 Manual-3",
       "manual_links": [
         {
           "title": "SCP-10_Manual-3.pdf",
@@ -150189,6 +150662,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U9-2",
       "manual_links": [
         {
           "title": "U9-2.pdf",
@@ -150477,6 +150951,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-NiteLite Manual F",
       "manual_links": [
         {
           "title": "SC-NiteLite_Manual_F.pdf",
@@ -150658,6 +151133,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U8-2",
       "manual_links": [
         {
           "title": "U8-2.pdf",
@@ -151038,6 +151514,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753098-2",
       "manual_links": [
         {
           "title": "UC30-2.pdf",
@@ -151287,6 +151764,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-HOLTR1 manual F",
       "manual_links": [
         {
           "title": "SC-HOLTR1_manual_F.pdf",
@@ -151673,6 +152151,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Discover-Coding Manual-2020 LR",
       "manual_links": [
         {
           "title": "Discover-Coding_Manual-2020_LR.pdf",
@@ -151894,6 +152373,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC Teacher-Guide",
       "manual_links": [
         {
           "title": "SC_Teacher-Guide.pdf",
@@ -152075,6 +152555,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "PK201-3",
       "manual_links": [
         {
           "title": "PK201-3.pdf",
@@ -152396,6 +152877,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DLG-100-2",
       "manual_links": [
         {
           "title": "DLG-100-2.pdf",
@@ -152832,6 +153314,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "UC40",
       "manual_links": [
         {
           "title": "UC40.pdf",
@@ -153146,6 +153629,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753097-2",
       "manual_links": [
         {
           "title": "753097-2.pdf",
@@ -153336,6 +153820,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-Manual-Master Part-1",
       "manual_links": [
         {
           "title": "MyHome-Manual-Master_Part-1.pdf",
@@ -153638,6 +154123,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-12 Manual-3",
       "manual_links": [
         {
           "title": "SCP-12_Manual-3.pdf",
@@ -153912,6 +154398,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "UC80",
       "manual_links": [
         {
           "title": "UC80.pdf",
@@ -154310,6 +154797,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753286-2",
       "manual_links": [
         {
           "title": "753286-2.pdf",
@@ -154491,6 +154979,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "TX1-2",
       "manual_links": [
         {
           "title": "TX1-2.pdf",
@@ -154898,6 +155387,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CM-125 Manual email",
       "manual_links": [
         {
           "title": "CM-125_Manual_email.pdf",
@@ -155384,6 +155874,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753317-2",
       "manual_links": [
         {
           "title": "SCG125-3.pdf",
@@ -155587,6 +156078,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-100 REV-J LR",
       "manual_links": [
         {
           "title": "SC-100_REV-J_LR.pdf",
@@ -155768,6 +156260,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "B5-2",
       "manual_links": [
         {
           "title": "B5-2.pdf",
@@ -156253,6 +156746,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753296",
       "manual_links": [
         {
           "title": "753296.pdf",
@@ -156541,6 +157035,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP08-2",
       "manual_links": [
         {
           "title": "SCP08-2.pdf",
@@ -157090,6 +157585,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCC-350 Manual",
       "manual_links": [
         {
           "title": "SCC-350_Manual.pdf",
@@ -157490,6 +157986,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "2018 SCHL-1 Manual LR",
       "manual_links": [
         {
           "title": "2018_SCHL-1_Manual_LR.pdf",
@@ -157820,6 +158317,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCROV-10 REV-F",
       "manual_links": [
         {
           "title": "SCROV-10_REV-F.pdf",
@@ -158221,6 +158719,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "UC70",
       "manual_links": [
         {
           "title": "UC70.pdf",
@@ -158635,6 +159134,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-Spy1 Manual Web",
       "manual_links": [
         {
           "title": "SC-Spy1_Manual_Web.pdf",
@@ -159057,6 +159557,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCS-185 Manual",
       "manual_links": [
         {
           "title": "SCS-185_Manual.pdf",
@@ -159238,6 +159739,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U7-2",
       "manual_links": [
         {
           "title": "U7-2.pdf",
@@ -159540,6 +160042,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP02-2",
       "manual_links": [
         {
           "title": "SCP02-2.pdf",
@@ -159921,6 +160424,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753102-2",
       "manual_links": [
         {
           "title": "SC-100_REV-H2-3.pdf",
@@ -160229,6 +160733,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-11 Manual-3",
       "manual_links": [
         {
           "title": "SCP-11_Manual-3.pdf",
@@ -160564,6 +161069,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "DLG-200-2",
       "manual_links": [
         {
           "title": "DLG-200-2.pdf",
@@ -161072,6 +161578,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753285-2",
       "manual_links": [
         {
           "title": "SCL175-2.pdf",
@@ -161506,6 +162013,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCA-200 Manual1",
       "manual_links": [
         {
           "title": "SCA-200_Manual1.pdf",
@@ -161687,6 +162195,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U6-2",
       "manual_links": [
         {
           "title": "U6-2.pdf",
@@ -162201,6 +162710,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "UC60",
       "manual_links": [
         {
           "title": "UC60.pdf",
@@ -162501,6 +163011,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-12 Manual2023",
       "manual_links": [
         {
           "title": "Find this manual at Elenco",
@@ -162683,6 +163194,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "6scb2 specs-2",
       "manual_links": [
         {
           "title": "6scb2_specs-2.pdf",
@@ -163020,6 +163532,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCSNAPINO Manual",
       "manual_links": [
         {
           "title": "SCSNAPINO_Manual.pdf",
@@ -163294,6 +163807,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP06-3",
       "manual_links": [
         {
           "title": "SCP06-3.pdf",
@@ -163764,6 +164278,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC STEM1 manual PRINT Small",
       "manual_links": [
         {
           "title": "SC_STEM1_manual_PRINT_Small.pdf",
@@ -164126,6 +164641,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753305-2",
       "manual_links": [
         {
           "title": "UC90-2.pdf",
@@ -164328,6 +164844,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-PLUS-Manual Part-1",
       "manual_links": [
         {
           "title": "MyHome-PLUS-Manual_Part-1.pdf",
@@ -164509,6 +165026,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap-Micro Rev C-3",
       "manual_links": [
         {
           "title": "Snap-Micro_Rev_C-3.pdf",
@@ -164909,6 +165427,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753303",
       "manual_links": [
         {
           "title": "753303.pdf",
@@ -165337,6 +165856,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753154-2",
       "manual_links": [
         {
           "title": "753154-2.pdf",
@@ -165654,6 +166174,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-FLTKIT-Manuals-English-French",
       "manual_links": [
         {
           "title": "SC-FLTKIT-Manuals-English-French.pdf",
@@ -165835,6 +166356,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "RX1-2",
       "manual_links": [
         {
           "title": "RX1-2.pdf",
@@ -166018,6 +166540,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753293-2",
       "manual_links": [
         {
           "title": "753293-2.pdf",
@@ -166327,6 +166850,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP01-2",
       "manual_links": [
         {
           "title": "SCP01-2.pdf",
@@ -166728,6 +167252,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "CM-200 Manual Low-res",
       "manual_links": [
         {
           "title": "CM-200_Manual_Low-res.pdf",
@@ -167271,6 +167796,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "mega200",
       "manual_links": [
         {
           "title": "mega200.pdf",
@@ -167650,6 +168176,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC GRNENGKIT full web 2024-Manual",
       "manual_links": [
         {
           "title": "SC_GRNENGKIT_full_web_2024-Manual.pdf",
@@ -167831,6 +168358,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "U1-2",
       "manual_links": [
         {
           "title": "U1-2.pdf",
@@ -168098,6 +168626,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap2It InstructionManual 6PG V2-1",
       "manual_links": [
         {
           "title": "Snap2It_InstructionManual_6PG_V2-1.pdf",
@@ -168472,6 +169001,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "753235",
       "manual_links": [
         {
           "title": "SC-BRICs_Manual_LR.pdf",
@@ -168815,6 +169345,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCP-13 Manual-3",
       "manual_links": [
         {
           "title": "SCP-13_Manual-3.pdf",
@@ -169215,6 +169746,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Code-Journey-manual LR",
       "manual_links": [
         {
           "title": "Code-Journey-manual_LR.pdf",
@@ -169671,6 +170203,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Explore-Coding Manual 2020 LR",
       "manual_links": [
         {
           "title": "Explore-Coding_Manual_2020_LR.pdf",
@@ -169952,6 +170485,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SCBRLT1 BRIC-Light 2025 Manual F LR-1",
       "manual_links": [
         {
           "title": "SCBRLT1_BRIC-Light_2025_Manual_F_LR-1.pdf",
@@ -170427,6 +170961,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-Manual-Master Part-2",
       "manual_links": [
         {
           "title": "MyHome-Manual-Master_Part-2.pdf",
@@ -170689,6 +171224,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "Snap Draw Sound-Circuits manual",
       "manual_links": [
         {
           "title": "Snap_Draw_Sound-Circuits_manual.pdf",
@@ -171234,6 +171770,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-PLUS-Manual Part-4",
       "manual_links": [
         {
           "title": "MyHome-PLUS-Manual_Part-4.pdf",
@@ -171422,6 +171959,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-PLUS-Manual Part-2",
       "manual_links": [
         {
           "title": "MyHome-PLUS-Manual_Part-2.pdf",
@@ -171858,6 +172396,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-SoccerShot Manual 2026",
       "manual_links": [
         {
           "title": "SC-SoccerShot_Manual_2026.pdf",
@@ -172111,6 +172650,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-LTWR4 Manual",
       "manual_links": [
         {
           "title": "SC-LTWR4_Manual.pdf",
@@ -172299,6 +172839,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "MyHome-PLUS-Manual Part-3",
       "manual_links": [
         {
           "title": "MyHome-PLUS-Manual_Part-3.pdf",
@@ -172587,6 +173128,7 @@
           "basis": "Not established by the audited evidence"
         }
       ],
+      "display_name": "SC-MagnetFunLab Manual 2026",
       "manual_links": [
         {
           "title": "SC-MagnetFunLab_Manual_2026.pdf",
