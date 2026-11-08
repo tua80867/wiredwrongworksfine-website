@@ -18,24 +18,26 @@ Repository: `tua80867/wiredwrongworksfine-website` (public).
 
 Do not claim a preview or deployment exists until Cloudflare confirms it. Do not put Google OAuth secrets, tokens, private analytics exports, or credentials in this repository. The Apps Script analytics workflow remains separate.
 
-## Proposed Cloudflare Pages configuration
+## Cloudflare Workers configuration
+
+The November 8 dashboard confirms the live site is a static-assets Worker named `dawn-mode-4443`, with zero bindings and a manual dashboard deployment. Keep this Worker and its existing custom domain. The repository's `wrangler.jsonc` targets that exact Worker and uploads only `public/`.
 
 - GitHub repository: `tua80867/wiredwrongworksfine-website`
 - Production branch: `main`
-- Framework preset: None
 - Build command: blank (plain static HTML; no build needed)
-- Build output directory: `public`
+- Deploy command: `npx wrangler deploy`
+- Root directory: repository root (`/`)
+- Asset directory: `public`, declared in `wrangler.jsonc`
 - Preview branches: enable for development branches
 - Custom domain: preserve `wiredwrongworksfine.com`
 
-These settings are prepared, not yet applied. Inspect the existing Cloudflare project before changing it.
+These settings are prepared, not yet applied. In the existing Worker's Settings > Builds, connect GitHub and select this repository. Authorize Cloudflare for this repository when requested. Confirm the production branch and commands above. Native Git integration supports connecting an existing Worker; no Pages migration is needed.
 
-If the current project uses Direct Upload, Cloudflare does not support converting it to native Git integration. Options are a new Git-integrated Pages project with a controlled domain cutover, or keeping the current project and deploying from GitHub Actions through Wrangler. Choose after inspecting the existing deployment. Do not delete the existing project or move the domain until the replacement deployment has been verified.
+After connection, trigger and verify a baseline deployment before making branding changes. Preserve the current domain configuration; this file deliberately does not declare new routes or domains.
 
 Official references:
-- https://developers.cloudflare.com/pages/get-started/git-integration/
-- https://developers.cloudflare.com/pages/get-started/direct-upload/
-- https://developers.cloudflare.com/pages/framework-guides/deploy-anything/
+- https://developers.cloudflare.com/workers/ci-cd/builds/
+- https://developers.cloudflare.com/workers/ci-cd/builds/configuration/
 
 ## Rollback
 
