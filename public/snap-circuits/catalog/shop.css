@@ -7,3 +7,5 @@
 .shop-pending{margin:20px 0}
 .shop-pending summary{cursor:pointer;margin-bottom:12px}
 .shop-item li{margin-block:10px}
+
+.shop-image-placeholder{min-height:140px;display:grid;place-items:center;background:#fbf6ed;border-radius:6px;color:#43515a;text-align:center}

@@ -71,10 +71,14 @@
         image.alt = '';
         image.loading = 'lazy';
         card.append(image);
-        const credit = node('a', offer.image.credit || 'Image source');
+        const credit = node('a', (offer.image.reference ? 'Catalog reference image · ' : '') + (offer.image.credit || 'Image source'));
         credit.href = offer.image.source;
         credit.className = 'shop-credit';
         card.append(credit);
+      } else {
+        const placeholder = node('div', 'See listing for photos');
+        placeholder.className = 'shop-image-placeholder';
+        card.append(placeholder);
       }
       card.append(node('div', offer.type), node('h3', offer.title));
       const matched = (query || hasFilters) && offer.matches.find(match => byPath.has(match.path));
